@@ -24,14 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/seokki96/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/seokki96/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/seokki96/leetcode/tree/master/0141-linked-list-cycle) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/seokki96/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/seokki96/leetcode/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/seokki96/leetcode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/seokki96/leetcode/tree/master/0792-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/seokki96/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
