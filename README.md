@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/seokki96/leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/seokki96/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/seokki96/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/seokki96/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0792-binary-search](https://github.com/seokki96/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/seokki96/leetcode/tree/master/0948-sort-an-array) |
 ## Binary Search
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/seokki96/leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/seokki96/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
