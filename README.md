@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/seokki96/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/seokki96/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/seokki96/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/seokki96/leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/seokki96/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/seokki96/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/seokki96/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/seokki96/leetcode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/seokki96/leetcode/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/seokki96/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/seokki96/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/seokki96/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
