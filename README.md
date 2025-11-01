@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/seokki96/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/seokki96/leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/seokki96/leetcode/tree/master/0039-combination-sum) |
+| [0054-spiral-matrix](https://github.com/seokki96/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/seokki96/leetcode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/seokki96/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/seokki96/leetcode/tree/master/0088-merge-sorted-array) |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/seokki96/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/seokki96/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/seokki96/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/seokki96/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
