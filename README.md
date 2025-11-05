@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/seokki96/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/seokki96/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/seokki96/leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/seokki96/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/seokki96/leetcode/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/seokki96/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/seokki96/leetcode/tree/master/0057-insert-interval) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/seokki96/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/seokki96/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/seokki96/leetcode/tree/master/0792-binary-search) |
 ## Sorting
