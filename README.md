@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/seokki96/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/seokki96/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/seokki96/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1023-time-based-key-value-store](https://github.com/seokki96/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/seokki96/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/seokki96/leetcode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/seokki96/leetcode/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/seokki96/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/seokki96/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/seokki96/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/seokki96/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1023-time-based-key-value-store](https://github.com/seokki96/leetcode/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/seokki96/leetcode/tree/master/0733-flood-fill) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/seokki96/leetcode/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
